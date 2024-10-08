@@ -124,11 +124,11 @@ The user can click the “Clear” button to clear the input fields.
 Example:  
 + Input: 100 Fahrenheit  
     + Output: 37.78 C  
-Input: -40 F  
+- Input: -40 F  
     + Output: -40 C  
-Input: -90 F  
+- Input: -90 F  
     + Output: -67.78 C  
-Input: “abc “  
+- Input: “abc “  
     + Output: Error message “Please Enter a Valid Numeric Temperature”  
 
 # STATEMENT
