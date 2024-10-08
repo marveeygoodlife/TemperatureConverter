@@ -29,9 +29,9 @@ Furthermore, the program will include input validation to make sure the user ent
 
 ## PROBLEM SPECIFICATION
 
-**Input: User will insert temperature in Fahrenheit.  
-**Output: An answer will be provided to the user after the conversion.  
-**Formula: C = (F−32) × 9 / 5 
+- Input: User will insert temperature in Fahrenheit.  
+- Output: An answer will be provided to the user after the conversion.  
+- Formula: C = (F−32) × 9 / 5 
 
 Where:  
 
@@ -122,7 +122,7 @@ The program successfully converts from Fahrenheit to Celsius and displays the re
 If a user enters a wrong input, the program will prompt the user with a message to enter valid inputs.
 The user can click the “Clear” button to clear the input fields.  
 Example:  
-Input: 100 Fahrenheit  
++ Input: 100 Fahrenheit  
 Output: 37.78 C  
 Input: -40 F  
 Output: -40 C  
