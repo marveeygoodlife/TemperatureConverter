@@ -31,7 +31,7 @@ Furthermore, the program will include input validation to make sure the user ent
 
 Input: User will insert temperature in Fahrenheit.
 Output: An answer will be provided to the user after the conversion.
-Formula: C = (F−32) × 9 / 5
+Formula: $$ C = (F−32) × 9 / 5 $$
 Where:
 C is the temperature in Celsius
 F is the temperature in Fahrenheit
@@ -75,6 +75,7 @@ Flow chart
 
 CODE START HERE
 -
+```vb6
 Private Sub cmdConvert_Click()
     Dim fahrenheit As Double
     Dim celsius As Double
@@ -107,7 +108,7 @@ Private Sub cmdClear_Click()
   txtCelsius.Text = ""
     txtFahrenheit.SetFocus
 End Sub
-
+```
 CODE ENDS HERE
 
 
