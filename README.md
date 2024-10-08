@@ -40,8 +40,8 @@ Where:
 
 - Validation: The program should validate user input.  
 - Buttons:  
-- Convert : Button to start the conversion  
- - Clear: Button to clear form and reset input  
+           - Convert : Button to start the conversion  
+           - Clear: Button to clear form and reset input  
 
 ## ANALYSIS
 
@@ -57,17 +57,17 @@ Where:
 User Interface:  
 
 - Label1: “Enter temperature in Fahrenheit”  
-- TextBox1: Input field for fahrenheit temperature  
+    - TextBox1: Input field for fahrenheit temperature  
 - Label2: “Temperature in Celsius”  
-- Label3: Display Celsius result  
+    - Label3: Display Celsius result  
 - Button2: Clear the form.  
 
 Program Flow  
 
 - User enter temperature  
-- Users click the “Convert” button.  
+   - Users click the “Convert” button.  
 - Program validates the input, make the conversion, and display the correct result in label 3  
-- Users can click “Clear” to reset the input fields.  
+   - Users can click “Clear” to reset the input fields.  
 
 Flow chart
 
@@ -123,13 +123,13 @@ If a user enters a wrong input, the program will prompt the user with a message 
 The user can click the “Clear” button to clear the input fields.  
 Example:  
 + Input: 100 Fahrenheit  
-Output: 37.78 C  
+    + Output: 37.78 C  
 Input: -40 F  
-Output: -40 C  
+    + Output: -40 C  
 Input: -90 F  
-Output: -67.78 C  
+    + Output: -67.78 C  
 Input: “abc “  
-Output: Error message “Please Enter a Valid Numeric Temperature”  
+    + Output: Error message “Please Enter a Valid Numeric Temperature”  
 
 # STATEMENT
 This is my school practical project.
