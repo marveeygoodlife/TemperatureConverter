@@ -1,6 +1,6 @@
 # TEMPERATURE CONVERTER
 
-
+![Live-Preview](https://github.com/marveeygoodlife/TemperatureConverter/blob/main/images/Screenshot%202024-10-08%20132820.png)
  This is a basic application that calculates temperature, user input Fahrenheit, the inputs get validated and users get celsius as answer.
 This code is run on VISUAL BASIC 6
 
@@ -152,3 +152,4 @@ This is my school practical project.
 
 ![Preview](https://github.com/marveeygoodlife/TemperatureConverter/blob/main/images/Screenshot%202024-10-08%20132820.png)
 
+[🔝 ](#temperature-converter)
