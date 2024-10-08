@@ -3,7 +3,7 @@
 This code is run on VISUAL BASIC 6
 ## Table of Contents
 
-1. [PROBLEM STATEMENT](#problem_statement)
+1. [PROBLEM STATEMENT](#problem-statement)
 2. [Feature](#feature)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
