@@ -16,11 +16,11 @@ This code is run on VISUAL BASIC 6
 5. [RESULT](#result)
 
 ## Marvellous Ediagbonya
-Noun
-Abuja
-07015824775
-CIT 104 PRACTICAL
-Monday, 7 October
+Noun  
+Abuja  
+07015824775  
+CIT 104 PRACTICAL  
+Monday, 7 October  
 
 ## PROBLEM STATEMENT
 
