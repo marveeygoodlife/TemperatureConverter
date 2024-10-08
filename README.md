@@ -132,7 +132,7 @@ CODE ENDS HERE
 
 
 
-## RESULTS
+## RESULT
 
 The program successfully converts from Fahrenheit to Celsius and displays the result in the Output label.
 If a user enters a wrong input, the program will prompt the user with a message to enter valid inputs.
