@@ -150,5 +150,5 @@ Example:
 # STATEMENT
 This is my school practical project.  
 
-![Preview](images/Screenshot 2024-10-08 132820.png)
+![Preview](https://github.com/marveeygoodlife/TemperatureConverter/blob/main/images/Screenshot%202024-10-08%20132820.png)
 
