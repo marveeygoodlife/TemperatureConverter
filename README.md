@@ -36,7 +36,7 @@ The following files are included in this VB6 project:
 - Easy navigation
 
 
-#ABOUT PROJECT
+## ABOUT PROJECT
 
 ## PROBLEM STATEMENT
 
@@ -148,4 +148,7 @@ Example:
     + Output: Error message “Please Enter a Valid Numeric Temperature”  
 
 # STATEMENT
-This is my school practical project.
+This is my school practical project.  
+
+![Preview](https://github.com/marveeygoodlife/TemperatureConverter/blob/main/images/Screenshot%202024-10-08%20132820.png)
+
