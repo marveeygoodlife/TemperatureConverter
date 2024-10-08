@@ -36,7 +36,7 @@ The following files are included in this VB6 project:
 - Easy navigation
 
 
-#ABOUT PROJECT
+## ABOUT PROJECT
 
 ## PROBLEM STATEMENT
 
