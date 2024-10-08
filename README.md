@@ -29,43 +29,45 @@ Furthermore, the program will include input validation to make sure the user ent
 
 ## PROBLEM SPECIFICATION
 
-Input: User will insert temperature in Fahrenheit.  
-Output: An answer will be provided to the user after the conversion.  
-Formula: C = (F−32) × 9 / 5 
-Where:  
-C is the temperature in Celsius    
-F is the temperature in Fahrenheit    
+*Input: User will insert temperature in Fahrenheit.  
+*Output: An answer will be provided to the user after the conversion.  
+*Formula: C = (F−32) × 9 / 5 
 
-Validation: The program should validate user input.  
-Buttons:  
-Convert : Button to start the conversion  
-Clear: Button to clear form and reset input  
+Where:  
+
+- C is the temperature in Celsius    
+- F is the temperature in Fahrenheit    
+
+- Validation: The program should validate user input.  
+- Buttons:  
+- Convert : Button to start the conversion  
+ - Clear: Button to clear form and reset input  
 
 ## ANALYSIS
 
-User enter a temperature in Fahrenheit into a Textbox  
-Upon clicking convert, the program will	  
-Validate input to make sure it’s numeric  
-Convert from Fahrenheit to Celsius with the exercise formula.  
-Display the Celsius in a Label.  
-The clear button reset form and allow users to enter new conversions.  
+- User enter a temperature in Fahrenheit into a Textbox  
+- Upon clicking convert, the program will	  
+- Validate input to make sure it’s numeric  
+- Convert from Fahrenheit to Celsius with the exercise formula.  
+- Display the Celsius in a Label.  
+- The clear button reset form and allow users to enter new conversions.  
 
 ## DESIGN
 
 User Interface:  
 
-Label1: “Enter temperature in Fahrenheit”  
-TextBox1: Input field for fahrenheit temperature  
-Label2: “Temperature in Celsius”  
-Label3: Display Celsius result  
-Button2: Clear the form.  
+- Label1: “Enter temperature in Fahrenheit”  
+- TextBox1: Input field for fahrenheit temperature  
+- Label2: “Temperature in Celsius”  
+- Label3: Display Celsius result  
+- Button2: Clear the form.  
 
 Program Flow  
 
-User enter temperature  
-Users click the “Convert” button.  
-Program validates the input, make the conversion, and display the correct result in label 3  
-Users can click “Clear” to reset the input fields.  
+- User enter temperature  
+- Users click the “Convert” button.  
+- Program validates the input, make the conversion, and display the correct result in label 3  
+- Users can click “Clear” to reset the input fields.  
 
 Flow chart
 
