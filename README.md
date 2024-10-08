@@ -149,3 +149,5 @@ Example:
 
 # STATEMENT
 This is my school practical project.
+![Preview]("C:\Users\User\OneDrive\Desktop\COMPLETEDVB6-PROJECTS\EXERCISE2\TemperatureConverter\images\Screenshot 2024-10-08 132820.png")
+
