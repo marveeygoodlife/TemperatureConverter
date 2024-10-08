@@ -21,6 +21,22 @@ Abuja
 07015824775  
 CIT 104 PRACTICAL  
 Monday, 7 October  
+## Project Files
+
+The following files are included in this VB6 project:
+
+- **Project File**: `.vbp` - Contains project settings.
+- **Form Files**: `.frm` - Define the user interface.
+- **Preview file**: `.exe` - Contain application preview.
+
+### Features
+
+- User-friendly interface
+- Supports multiple forms
+- Easy navigation
+
+
+#ABOUT PROJECT
 
 ## PROBLEM STATEMENT
 
