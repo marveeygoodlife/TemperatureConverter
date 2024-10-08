@@ -29,9 +29,9 @@ Furthermore, the program will include input validation to make sure the user ent
 
 ## PROBLEM SPECIFICATION
 
-*Input: User will insert temperature in Fahrenheit.  
-*Output: An answer will be provided to the user after the conversion.  
-*Formula: C = (F−32) × 9 / 5 
+**Input: User will insert temperature in Fahrenheit.  
+**Output: An answer will be provided to the user after the conversion.  
+**Formula: C = (F−32) × 9 / 5 
 
 Where:  
 
