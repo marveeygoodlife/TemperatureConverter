@@ -1,4 +1,4 @@
-# TemperatureConverter
+# TEMPERATURE CONVERTER
 
 
  This is a basic application that calculates temperature, user input Fahrenheit, the inputs get validated and users get celsius as answer.
